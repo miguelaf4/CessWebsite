@@ -1,0 +1,49 @@
+html, body {
+    background-color: white;
+}
+
+
+/* --------------------LICENCIATURA---------------------------- */
+
+#lic .btn{
+    background-color: #CD3874;
+    border-color: #CD3874;
+    width: 180px;
+    opacity: 0.8;
+    transition: 0.3s;
+    margin: auto 0;
+}
+
+#lic .btn:hover {
+    opacity: 1;
+}
+
+#lic img{
+    width: 300px;
+    height: 225px;
+    display: flex;
+    margin:0 auto;
+}
+
+#lic .row{
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#lic h1{
+    text-align: center;
+}
+
+
+#lic {
+    background-color: white;
+    height: auto;
+    margin: 150px 0px 20px 0px;
+}
+
+#lic .tarjeta {
+    -webkit-box-shadow: 10px 10px 40px 0px rgba(41,41,41,0.5);
+    -moz-box-shadow: 10px 10px 40px 0px rgba(41,41,41,0.5);
+    box-shadow: 10px 10px 40px 0px rgba(41,41,41,0.5);
+}
+/* ----------------------------------------------------------- */
